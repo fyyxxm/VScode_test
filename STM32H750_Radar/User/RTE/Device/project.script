@@ -1,0 +1,4 @@
+load STM32H750VBTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "C:\Users\fyyxxm\Desktop\my project\STM32H750_Radar\User\RTE\Device\STM32H750VBTx\" 
