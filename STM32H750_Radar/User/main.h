@@ -31,7 +31,7 @@
 #define HARDWARE_VERSION               "V0.9.0"
 #define SOFTWARE_VERSION               "V1.0.0"
 
-#pragma anon_unions
+
 typedef union
 {
     uint16_t rader_id;
